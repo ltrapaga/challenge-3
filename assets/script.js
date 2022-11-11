@@ -36,7 +36,7 @@ var userSymbols = window.confirm("Do you want to add symbols to your password?")
 var userLowercase = window.confirm("Do you want to add lowercase characters to your password?");
 var userUppercase = window.confirm("Do you want to add uppercase characters to your password?");
 
-// Arrays that provide character types
+// Arrays that provide different characters
 var numberList = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var symbolList = ["!", "@", "#", "$", "%", "^", "&", "*", "~"];
 var lowercaseList = ["a" , "b" , "c" , "d" , "e" , "f" , "g" , "h" , "i" , "j" , "k" , "l" , "m" , "n" , "o" , "p" , "q" , "r" , "s" , "t" , "u" , "v" , "w" , "x" , "y" , "z"]
