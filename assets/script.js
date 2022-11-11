@@ -81,7 +81,7 @@ return generatedPassword
 
 //Function that generates random number
 
-function randomNumber(max) {
+function randomNumber(min, max) {
   var random = Math.random();
   return Math.floor(random*max)
 }
