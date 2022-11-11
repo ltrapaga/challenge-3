@@ -13,3 +13,5 @@ To access my JavaScript: Password Generator project, visit the live site at http
 ## Usage
 
 Screenshot:
+
+<img width="875" alt="image" src="https://user-images.githubusercontent.com/115514660/201233939-0e8e4f4d-f769-45aa-9641-3b7547b5680a.png">
